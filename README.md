@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sydwell101
+- 👋 Hi, I’m @ydwell
 - 👀 I’m interested in network automation, IoT and CyberSecurity.
 - 🌱 I’m currently learning networking fundamentals and Python programming language.
 - 💞️ I’m looking to collaborate on network automation and IoT security projects.
